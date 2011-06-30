@@ -1,0 +1,2 @@
+module RutesHelper
+end
